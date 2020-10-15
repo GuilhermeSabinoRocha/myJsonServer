@@ -1,0 +1,67 @@
+[
+  {
+    "id": "5f88e21048c6055cd95042d2",
+    "logado": false,
+    "active": true,
+    "picture": "http://placehold.it/32x32",
+    "name": "Alana Hammond",
+    "gender": "female",
+    "email": "alanahammond@yogasm.com",
+    "phone": "(857) 512-2259",
+    "ramal": 203,
+    "about": "non ad duis laboris ut ea amet excepteur pariatur cillum reprehenderit",
+    "task": "GHI-56"
+  },
+  {
+    "id": "5f88e210154456342a843f5e",
+    "logado": true,
+    "active": false,
+    "picture": "http://placehold.it/32x32",
+    "name": "Millie Greer",
+    "gender": "female",
+    "email": "milliegreer@yogasm.com",
+    "phone": "(910) 553-3336",
+    "ramal": 871,
+    "about": "non voluptate cillum enim ut occaecat est tempor id est aliquip",
+    "task": "GHI-56"
+  },
+  {
+    "id": "5f88e210d9b5db7f9423d83a",
+    "logado": true,
+    "active": true,
+    "picture": "http://placehold.it/32x32",
+    "name": "Chavez Mcbride",
+    "gender": "male",
+    "email": "chavezmcbride@yogasm.com",
+    "phone": "(917) 440-3618",
+    "ramal": 590,
+    "about": "cillum est consectetur minim enim do anim adipisicing ipsum consequat labore",
+    "task": "DEF-34"
+  },
+  {
+    "id": "5f88e210e1706d698d31ef32",
+    "logado": true,
+    "active": false,
+    "picture": "http://placehold.it/32x32",
+    "name": "Gracie Burgess",
+    "gender": "female",
+    "email": "gracieburgess@yogasm.com",
+    "phone": "(988) 528-2803",
+    "ramal": 643,
+    "about": "adipisicing ex aliqua cillum tempor incididunt in non consectetur Lorem enim",
+    "task": "DEF-34"
+  },
+  {
+    "id": "5f88e21095f518397a9e1ebc",
+    "logado": true,
+    "active": false,
+    "picture": "http://placehold.it/32x32",
+    "name": "Landry Prince",
+    "gender": "male",
+    "email": "landryprince@yogasm.com",
+    "phone": "(882) 516-3831",
+    "ramal": 743,
+    "about": "deserunt exercitation culpa et cillum labore dolor est ea labore anim",
+    "task": "DEF-34"
+  }
+]
