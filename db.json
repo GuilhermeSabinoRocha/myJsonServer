@@ -1,0 +1,80 @@
+[
+  {
+    "id": "5f88e03fd0e3fbf9415bff72",
+    "logado": false,
+    "active": false,
+    "picture": "http://placehold.it/32x32",
+    "name": "Gates Rose",
+    "gender": "male",
+    "email": "gatesrose@yogasm.com",
+    "phone": "(939) 405-2931",
+    "ramal": 553,
+    "about": "exercitation exercitation ex officia culpa et cillum ut laboris laboris mollit",
+    "task": "PED-57"
+  },
+  {
+    "id": "5f88e03f46e97932533d858c",
+    "logado": false,
+    "active": true,
+    "picture": "http://placehold.it/32x32",
+    "name": "Alston Luna",
+    "gender": "male",
+    "email": "alstonluna@yogasm.com",
+    "phone": "(859) 560-2027",
+    "ramal": 179,
+    "about": "est occaecat irure duis ex nostrud adipisicing cupidatat ut mollit culpa",
+    "task": "PED-57"
+  },
+  {
+    "id": "5f88e03fe7353c74a57577a8",
+    "logado": false,
+    "active": false,
+    "picture": "http://placehold.it/32x32",
+    "name": "Wanda Fields",
+    "gender": "female",
+    "email": "wandafields@yogasm.com",
+    "phone": "(998) 475-3503",
+    "ramal": 753,
+    "about": "reprehenderit enim non nostrud ullamco Lorem sint commodo quis minim consequat",
+    "task": "DEF-34"
+  },
+  {
+    "id": "5f88e03f446f9684682a78da",
+    "logado": true,
+    "active": true,
+    "picture": "http://placehold.it/32x32",
+    "name": "Velma Stone",
+    "gender": "female",
+    "email": "velmastone@yogasm.com",
+    "phone": "(819) 547-3835",
+    "ramal": 503,
+    "about": "quis reprehenderit consequat reprehenderit deserunt id cupidatat nisi enim consequat enim",
+    "task": "GHI-56"
+  },
+  {
+    "id": "5f88e03f949f9be7eec52b03",
+    "logado": false,
+    "active": false,
+    "picture": "http://placehold.it/32x32",
+    "name": "Bean Delaney",
+    "gender": "male",
+    "email": "beandelaney@yogasm.com",
+    "phone": "(834) 477-3885",
+    "ramal": 241,
+    "about": "fugiat cillum veniam nisi elit excepteur voluptate Lorem nostrud ut aliquip",
+    "task": "DEF-34"
+  },
+  {
+    "id": "5f88e03fc297731ef450ccd5",
+    "logado": true,
+    "active": false,
+    "picture": "http://placehold.it/32x32",
+    "name": "Susie Sawyer",
+    "gender": "female",
+    "email": "susiesawyer@yogasm.com",
+    "phone": "(872) 600-2988",
+    "ramal": 874,
+    "about": "duis sint reprehenderit elit Lorem tempor mollit sit mollit veniam pariatur",
+    "task": "GHI-56"
+  }
+]
