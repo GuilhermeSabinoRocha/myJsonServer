@@ -9,7 +9,7 @@
     "email": "hammond@yogasm.com",
     "phone": "512-2259",
     "ramal": 203,
-    "comentario": "non ad duis laboris ut ea amet excepteur pariatur cillum reprehenderit",
+    "comentario": "non ad duis laboris ut ea amet excepteur pariatur cillum reprehenderit"
     },
     { "id": 2,   
     "name": "Carla Hang",     
@@ -20,7 +20,7 @@
     "email": "greer@yogasm.com",
     "phone": "512-3336",
     "ramal": 871,
-    "comentario": "non voluptate cillum enim ut occaecat est tempor id est aliquip",
+    "comentario": "non voluptate cillum enim ut occaecat est tempor id est aliquip"
     },
     { "id": 3,   
     "name": "Mayana Ollivier",     
@@ -31,7 +31,7 @@
     "email": "burgess@yogasm.com",
     "phone": "512-2803",
     "ramal": 643,
-    "comentario": "adipisicing ex aliqua cillum tempor incididunt in non Lorem enim",  
+    "comentario": "adipisicing ex aliqua cillum tempor incididunt in non Lorem enim"
     }
   ] 
 }
