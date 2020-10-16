@@ -1,15 +1,9 @@
-  {
-    "collaborator": [
-    "id": "5f88e21048c6055cd95042d2",
-    "logado": false,
-    "active": true,
-    "picture": "http://placehold.it/32x32",
-    "name": "Alana Hammond",
-    "gender": "female",
-    "email": "alanahammond@yogasm.com",
-    "phone": "(857) 512-2259",
-    "ramal": 203,
-    "about": "non ad duis laboris ut ea amet excepteur pariatur cillum reprehenderit",
-    "task": "GHI-56"
-      ]
-  }
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
