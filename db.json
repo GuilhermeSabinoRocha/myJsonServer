@@ -1,4 +1,5 @@
   {
+    "collaborator": [
     "id": "5f88e21048c6055cd95042d2",
     "logado": false,
     "active": true,
@@ -10,4 +11,5 @@
     "ramal": 203,
     "about": "non ad duis laboris ut ea amet excepteur pariatur cillum reprehenderit",
     "task": "GHI-56"
+      ]
   }
