@@ -2,6 +2,12 @@
   "collaborator": [
     { "id": 1,   
     "name": "Guilherme Sabino",     
+    "task": "PED-57" },
+    { "id": 2,   
+    "name": "Carla Hang",     
+    "task": "GHI-56" },
+    { "id": 3,   
+    "name": "Mayana Ollivier",     
     "task": "GHI-56" }
   ] 
 }
