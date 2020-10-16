@@ -1,7 +1,6 @@
 {
   "collaborator": [
-    { "id": 1, "logado": false,
-    "active": true,   
+    { "id": 1,   
     "name": "Guilherme Sabino",     
     "task": "GHI-56" }
   ] 
