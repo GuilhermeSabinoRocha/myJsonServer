@@ -15,10 +15,10 @@
     "version": "11",
     "level": 2
     }    
-  ] 
-},
- { "workDayHour": [{
+  ], 
+   "workDayHour": [{
     "iniHour": "9:00",
-     "endHour": "18:00"       
-  }]}
+    "endHour": "18:00"       
+    }]
+  }
 
