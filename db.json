@@ -9,7 +9,14 @@
     "email": "guilherme@neki-it.com.br",
     "phone": "512-2259",
     "ramal": 203,
-    "comments": ["teste1", "teste2"],     
+    "comments": ["teste1", "teste2"],
+     "workDayHour": [{
+      "iniHour": "9:00"
+    },
+  {
+    "endHour": "18:00"
+  }
+  ],
     "role": "trainee"  
     },
     { "id": 2,   
@@ -21,7 +28,14 @@
     "email": "guilherme@neki-it.com.br",
     "phone": "512-2259",
     "ramal": 203,
-    "comments": ["teste1", "teste2"],     
+    "comments": ["teste1", "teste2"], 
+     "workDayHour": [{
+      "iniHour": "9:00"
+    },
+  {
+    "endHour": "18:00"
+  }
+  ],     
     "role": "trainee"  
     }    
   ] 
