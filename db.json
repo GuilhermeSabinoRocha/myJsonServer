@@ -9,7 +9,7 @@
     "email": "hammond@yogasm.com",
     "phone": "512-2259",
     "ramal": 203,
-    "comentario": "non ad duis laboris ut ea amet excepteur pariatur cillum reprehenderit"
+    "comments": ["teste1", "teste2"]
     },
     { "id": 2,   
     "name": "Carla Hang",     
