@@ -2,14 +2,14 @@
   "collaborator": [
     { "id": 1,   
     "name": "Guilherme Sabino",     
-    "task": "PED-57",
+    "task": ["PED-57","GHI-56"],
     "logado": true,
     "active": true,
     "picture": "http://placehold.it/32x32",    
-    "email": "hammond@yogasm.com",
+    "email": "guilherme@neki-it.com.br",
     "phone": "512-2259",
     "ramal": 203,
-    "comentario": "non ad duis laboris ut ea amet excepteur pariatur cillum reprehenderit"
+    "comments": ["teste1", "teste2"]
     },
     { "id": 2,   
     "name": "Carla Hang",     
@@ -17,21 +17,21 @@
     "logado": true,
     "active": false,
     "picture": "http://placehold.it/32x32",    
-    "email": "greer@yogasm.com",
+    "email": "carla@neki-it.com.br",
     "phone": "512-3336",
     "ramal": 871,
-    "comentario": "non voluptate cillum enim ut occaecat est tempor id est aliquip"
+    "comments": "non voluptate cillum enim ut occaecat est tempor id est aliquip"
     },
     { "id": 3,   
     "name": "Mayana Ollivier",     
-    "task": "GHI-56",
+    "task": ["PED-57","ABC-12"],
     "logado": true,
     "active": true,
     "picture": "http://placehold.it/32x32",    
-    "email": "burgess@yogasm.com",
+    "email": "mayana@neki-it.com.br",
     "phone": "512-2803",
     "ramal": 643,
-    "comentario": "adipisicing ex aliqua cillum tempor incididunt in non Lorem enim"
+    "comments": "adipisicing ex aliqua cillum tempor incididunt in non Lorem enim"
     }
   ] 
 }
