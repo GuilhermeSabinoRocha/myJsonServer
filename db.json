@@ -4,34 +4,147 @@
     "name": "Guilherme Sabino",     
     "task": ["PED-57","GHI-56"],
     "logado": true,
-    "active": true,
+    "actionStatus": "play",
     "picture": "http://placehold.it/32x32",    
     "email": "guilherme@neki-it.com.br",
     "phone": "512-2259",
     "ramal": 203,
-    "comments": ["teste1", "teste2"]
+    "comments": ["teste1", "teste2"],
+    "workDayHour": [{
+      "iniHour": "9:00"
+    },
+  {
+    "endHour": "18:00"
+  }
+  ],    
+    "role": "trainee",
+    "skill": [
+      {"technology": [
+        {
+          "id":1,
+          "type": "React Native",
+          "version": "11",
+        "level": "2"
+        },
+        {
+          "id":2,
+          "type": "Java",
+          "version": "11",
+        "level": "2"
+        }        
+      ]
+  }
+    ]    
     },
     { "id": 2,   
     "name": "Carla Hang",     
-    "task": "GHI-56",
+    "task": ["PED-57","GHI-56"],
     "logado": true,
-    "active": false,
+    "actionStatus": "pause",
     "picture": "http://placehold.it/32x32",    
     "email": "carla@neki-it.com.br",
     "phone": "512-3336",
     "ramal": 871,
-    "comments": "non voluptate cillum enim ut occaecat est tempor id est aliquip"
+    "comments": ["teste3", "teste4"],
+    "workDayHour": [{
+      "iniHour": "9:00"
+    },
+  {
+    "endHour": "18:00"
+  }
+  ],    
+    "role": "trainee",
+    "skill": [
+      {"technology": [
+        {
+          "id":1,
+          "type": "React Native",
+          "version": "11",
+        "level": "2"
+        },
+        {
+          "id":2,
+          "type": "Java",
+          "version": "11",
+        "level": "2"
+        }        
+      ]
+  }
+    ]    
     },
     { "id": 3,   
     "name": "Mayana Ollivier",     
     "task": ["PED-57","ABC-12"],
     "logado": true,
-    "active": true,
+    "actionStatus": "stop",
     "picture": "http://placehold.it/32x32",    
     "email": "mayana@neki-it.com.br",
     "phone": "512-2803",
     "ramal": 643,
-    "comments": "adipisicing ex aliqua cillum tempor incididunt in non Lorem enim"
-    }
+    "comments": ["teste5", "teste6"],
+    "workDayHour": [{
+      "iniHour": "9:00"
+    },
+  {
+    "endHour": "18:00"
+  }
+  ],    
+    "role": "trainee",
+    "skill": [
+      {"technology": [
+        {
+          "id":1,
+          "type": "React Native",
+          "version": "11",
+        "level": "2"
+        },
+        {
+          "id":2,
+          "type": "Java",
+          "version": "11",
+        "level": "2"
+        }        
+      ]
+  }
+    ]      
+    },
+
+     { "id": 4,   
+    "name": "Edson Alves",     
+    "task": ["PED-57","ABC-12"],
+    "logado": true,
+    "actionStatus": "play",
+    "picture": "http://placehold.it/32x32",    
+    "email": "edson@neki-it.com.br",
+    "phone": "512-2587",
+    "ramal": 741,
+    "comments": ["teste7", "teste8"],
+    "workDayHour": [{
+      "iniHour": "9:00"
+    },
+  {
+    "endHour": "18:00"
+  }
+  ],    
+    "role": "Arquiteto de Sistemas",
+    "skill": [
+      {"technology": [
+        {
+          "id":1,
+          "type": "React Native",
+          "version": "11",
+        "level": "8"
+        },
+        {
+          "id":2,
+          "type": "Java",
+          "version": "11",
+        "level": "8"
+        }        
+      ]
+  }
+    ]     
+    }    
+
   ] 
 }
