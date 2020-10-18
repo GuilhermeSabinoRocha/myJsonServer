@@ -13,7 +13,7 @@
     "role": "trainee",
     "technology": "Java",
     "version": "11",
-    "level": "2"
+    "level": 2
     },      
     { "id": 2,   
     "name": "Carla Hang",     
@@ -28,7 +28,7 @@
     "role": "trainee",
     "technology": "React Native",
     "version": "11",
-    "level": "2"
+    "level": 2
     },
     { "id": 3,   
     "name": "Mayana Ollivier",     
@@ -43,7 +43,7 @@
     "role": "trainee",
     "technology": "React Native",
     "version": "0.63.3",
-    "level": "2"
+    "level": 2
     },
 
      { "id": 4,   
@@ -59,7 +59,7 @@
     "role": "trainee",
     "technology": "React Native",
     "version": "0.63.3",
-    "level": "9"
+    "level": 9
     }    
   ] 
 }
