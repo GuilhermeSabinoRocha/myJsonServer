@@ -10,7 +10,7 @@
     "phone": "512-2259",
     "ramal": 203,
     "comments": ["teste1", "teste2"],    
-    "role": "trainee",
+    "role": "Trainee",
     "technology": "Java",
     "version": "11",
     "level": 2
@@ -25,7 +25,7 @@
     "phone": "512-3336",
     "ramal": 871,
     "comments": ["teste3", "teste4"],
-    "role": "trainee",
+    "role": "Trainee",
     "technology": "React Native",
     "version": "11",
     "level": 2
@@ -40,7 +40,7 @@
     "phone": "512-2803",
     "ramal": 643,
     "comments": ["teste5", "teste6"],
-    "role": "trainee",
+    "role": "Trainee",
     "technology": "React Native",
     "version": "0.63.3",
     "level": 2
@@ -56,7 +56,7 @@
     "phone": "512-2587",
     "ramal": 741,
     "comments": ["teste7", "teste8"],
-    "role": "trainee",
+    "role": "Arquiteto de Sistemas Sênior",
     "technology": "React Native",
     "version": "0.63.3",
     "level": 9
