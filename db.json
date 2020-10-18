@@ -10,13 +10,10 @@
     "phone": "512-2259",
     "ramal": 203,
     "comments": ["teste1", "teste2"],
-     "workDayHour": [{
-      "iniHour": "9:00"
-    },
-  {
-    "endHour": "18:00"
-  }
-  ],
+     "workDayHour": {
+      "iniHour": "9:00",
+       "endHour": "18:00"       
+    }, 
     "role": "trainee"  
     },
     { "id": 2,   
@@ -29,13 +26,10 @@
     "phone": "512-2259",
     "ramal": 203,
     "comments": ["teste1", "teste2"], 
-     "workDayHour": [{
-      "iniHour": "9:00"
-    },
-  {
-    "endHour": "18:00"
-  }
-  ],     
+      "workDayHour": {
+      "iniHour": "9:00",
+       "endHour": "18:00"       
+    }, 
     "role": "trainee"  
     }    
   ] 
