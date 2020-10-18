@@ -19,26 +19,21 @@
     },
     { "id": 2,   
     "name": "Carla Hang",     
-    "task": "GHI-56",
+     "task": ["PED-57","GHI-56"],
     "logado": true,
-    "active": false,
+    "actionStatus": "play",
     "picture": "http://placehold.it/32x32",    
-    "email": "greer@yogasm.com",
-    "phone": "512-3336",
-    "ramal": 871,
-    "comentario": "non voluptate cillum enim ut occaecat est tempor id est aliquip"
-    },
-    { "id": 3,   
-    "name": "Mayana Ollivier",     
-    "task": "GHI-56",
-    "logado": true,
-    "active": true,
-    "picture": "http://placehold.it/32x32",    
-    "email": "burgess@yogasm.com",
-    "phone": "512-2803",
-    "ramal": 643,
-    "comentario": "adipisicing ex aliqua cillum tempor incididunt in non Lorem enim"
-    }
+    "email": "guilherme@neki-it.com.br",
+    "phone": "512-2259",
+    "ramal": 203,
+    "comments": ["teste1", "teste2"],
+    "workDayHour": [{
+      "iniHour": "9:00"},
+  {
+    "endHour": "18:00"
+  }],    
+    "role": "trainee"  
+    }    
   ] 
   
 }
